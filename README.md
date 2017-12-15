@@ -1,0 +1,2 @@
+# Syn
+sample pages new
